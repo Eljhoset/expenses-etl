@@ -1,0 +1,40 @@
+# Compiled class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven build directory
+target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+
+# NetBeans project files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Compiled Debugging Symbols
+*.pdb
+*.dll
+*.exe
+*.so
+*.dylib
+
+# OS-specific files
+.DS_Store
+Thumbs.db
